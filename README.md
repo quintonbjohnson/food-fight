@@ -1,5 +1,5 @@
 # Food Fight
-A 2D Processing game that utilizes two Arduino controllers to fling food at the other player.
+A 2D [Processing](https://processing.org/) game that utilizes two Arduino controllers to fling food at the other player.
 
 <p>
   <img src ="https://raw.githubusercontent.com/quintonj/Personal-Website/master/img/portfolio/foodfightfull.png" max-width="100%" max-height="auto" align-vertical="center"/>
